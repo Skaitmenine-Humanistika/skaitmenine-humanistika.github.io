@@ -1,10 +1,9 @@
 ![Logo](https://github.com/Skaitmenine-Humanistika/skaitmenine-humanistika.github.io/raw/main/LogoBig.png)
 
 
-
-
-
 # Skaitemeninė Humanistika 
+
+* `[Projektai](Projektai)`
 
 ## Apie
 
