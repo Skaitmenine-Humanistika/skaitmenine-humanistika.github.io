@@ -3,7 +3,7 @@
 
 # Skaitemeninė Humanistika 
 
-* `[Projektai](https://skaitmenine-humanistika.github.io//Projektai)`
+* [`Projektai`](https://skaitmenine-humanistika.github.io//Projektai)
 
 ## Apie
 
