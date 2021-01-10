@@ -4,7 +4,7 @@
 # Skaitemeninė Humanistika 
 
 * [`Projektai`](Projektai)
-* [`Blogas`](Blogas)
+* [`Blogas`](blogas)
 
 ## Apie
 
