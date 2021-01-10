@@ -5,6 +5,7 @@
 „Grafas“ yra matematinis terminas, apibūdinantis abstrakčią duomenų struktūrą, kurią sudaro objektai, kurių  kai kurios poros sujungtos jugtimis. 
 
 <img src="https://github.com/Skaitmenine-Humanistika/skaitmenine-humanistika.github.io/raw/main/GraphExample.jpeg" width=250></img>
+
 `Grafo` pavyzdys
 
 Kitaip tariant, „grafas“ tai tinklas, susidarantis iš objektų ir jungčių. 
