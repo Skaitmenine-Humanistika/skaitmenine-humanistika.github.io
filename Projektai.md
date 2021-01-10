@@ -4,7 +4,7 @@
 
 „Grafas“ yra matematinis terminas, apibūdinantis abstrakčią duomenų struktūrą, kurią sudaro objektai, kurių  kai kurios poros sujungtos jugtimis. 
 
-<img src="https://github.com/Skaitmenine-Humanistika/skaitmenine-humanistika.github.io/raw/main/GraphExample.jpeg" width=250></img>
+<img src="https://github.com/Skaitmenine-Humanistika/skaitmenine-humanistika.github.io/raw/main/GraphExample.jpeg" width=250>
 
 `Grafo` pavyzdys
 
