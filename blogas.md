@@ -42,4 +42,5 @@ Kaip dvi reikšmingas išimtis reiktų paminėti dvi tyrimų sritis: infrastrukt
 
 ## OK, bet kas iš to?
 
-Skaitmeninė Humanistika bent jau man atrodo kaip labai įdomi sritis, o Lietuvoje ji gana apleista (parašysiu apie tai detaliau vėlesniuose įrašuose). Kad ir kaip bebūtų keista, situacija yra ant tiek bloga, kad per COVID krizę ne visi mokiniai galėjo prieiti programinius literatūros kūrinius, kadangi į biblioteką nueiti nebuvo galima, o internete jų tiesiog nebuvo. Žodžiu, šios srities plėtojimas gali būti naudingas platesnei visuomenei, gali įgalinti įdomius ateities tyrimus, taigi – kodėl gi ne?
+Per COVID-19 krizę ir karantiną paaiškėjo kokioje blogoje situacijoje esame su lietuviškos literatūros skaitmenizavimu. Pasirodo, kad užsidarius bibliotekoms, mokiniai negalėjo pasiekti dalies programinių literatūros kūrinių, kadangi internete jų tiesiog nebuvo. Jeigu kažkas norėjo pasiskaityti daugiau ar gauti neprograminius tekstus, tai situacija buvo dar liūdnesnė. Pats per karantiną pabandžiau sukurti lietuvių kalbai pritaikytą sentiment’ų nustatymo įrankį ir ištestuoti jį ant lietuviškos prozos tekstų. Po ilgų paieškų, teko padaryti išvadą, kad geriausias tokių tekstų šaltinis yra Linkomanija ir tekstus siųstis iš ten.
+Negerai, kad taip yra ir norisi, kad būtų geriau. 
