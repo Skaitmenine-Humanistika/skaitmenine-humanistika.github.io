@@ -1,5 +1,21 @@
 # Blog’as
 
+## Skaitemninė Humanistika Lietuvoje
+
+*Publikuota: 24 01 2021*
+
+Kalbėdamas apie Lietuvos ir Europos santykius vėlyvaisiais viduramžiais istorikas Edvardas Gudavičius pavartojo [pasvirusios kortų kaladės](http://www.lis.if.vu.lt/index9b50.html?lang=LT&id=archyvas&TomasID=4&ArchyvasID=66&ArchyvasPSL=35&ArchyvasKiekis=1) metaforą. Jos esmė paprasta – kadangi Lietuva prie Europos prisijungė gerokai pavėlavusi jai reikėjo staigiai pasivyti kitas, labiau pažengusias šalis. Tačiau pokyčiai, nors ir greiti, dažnai buvo paviršiniai – lengvai pavyko perimti naujausias drabužių ar elgesio madas, bet pamatiniai visuomenės struktūros ar ekonomikos pokyčiai įvyko žymiai mažesne apimtimi. Iš to ir kyla pasvirusi kortų kaladė – viršutinės kortos išsikiša ir pajuda žymiai lengviau negu tos, esančios apačioje. 
+
+Panašiai yra ir su skaitmeniniais dalykais Lietuvoje: dėl Sovietų okupacijos smarkiai atsilikome nuo Vakarų, po nepriklausomybės reikėjo juos greitai vytis; daugeliu atžvilgių, atrodo, pasivijome, bet toli gražu ne visais. 
+
+Kai JAV C. Shannon publikavo [matematinę komunikacijos teoriją](https://pure.mpg.de/rest/items/item_2383164/component/file_2383163/content), kuri padėjo pamatus pasaulio skaitmenizacijai, Sovietų Sąjungoje pradėjo rodytis straipsniai, kurie smerkė ir kritikavo „kibernetiką“ kaip pseudo-mistinį prasimanymą. Dėl šio judėjimo, svarbūs kompiuterių mokslo leidiniai buvo pašalinti iš universitetų, o bet koks kompiuterių mokslo plėtojimas bent keliems metams tapo uždrausta tema. Reikalai pradėjo kažkiek keistis tada, kai buvo suprasta, kad kompiuteriai yra būtini Sovietų kosminėms ir atominėms programoms. Tiesa, ir tada buvo laikomasi oficialiosios linijos – sovietų kompiuterius kūrę mokslininkai auditorijose turėjo smerkti kibernetiką, o po paskaitų ją taikyti savo tyrimuose. 
+
+Kompiuterijai plėtojantis Sovietų Sąjunga radikaliai pakeitė savo poziciją ir kone pernakt kibernetika iš  keiksmažodžio tapo vienu iš madingiausių terminų. Politbiuras manė, kad kompiuteriai gali išspręsti milžiniškas planinės ekonomikos koordinavimo problemas ir taip leisti Sovietų Sąjungai pasivyti Vakarus. Nepaisant tokio tono pokyčio, tokie norai niekad nesimaterializavo – Sovietų Sąjungoje šalia formaliosios egzistavo paralelinė neformali struktūra, kuri labai priešinosi kompiuterizacijai. Ligi tol Sovietų Sąjungoje kiekviena pramonės šaka buvo valdoma atskiroje ministerijoje, kurių kiekviena buvo gana autonomiška ir savarankiška kaip valstybė valstybėje. Kompiuteriai buvo grėsmė šiai autonomijai ir grasinosi visą galią priimti sprendimus sutelkti vienoje vietoje Centriniame Planavimo Komitete (GOSPLAN). Galbūt dėl to kompiuterizacijai ir buvo smarkiai priešinamasi ir ji daugelio mintyse užėmė panašią vietą kaip Kruščiovo kukurūzų auginimo vajus. 
+
+Atgavus nepriklausomybę gana greitai universitetų kabinetus užpildė ofiso kompiuteriai, kurie padėjo atlikti kasdienes užduotis, bibliotekos greitai pradėjo naudoti skaitmenines duomenų bazes, o tiksliesiems ir gamtos mokslams kompiuteriai tapo esmine mokslinės infrastruktūros ir mokslo proceso dalimi. Humanitariniuose moksluose gilesnis kompiuterių priėmimas vyko lėčiau ir kiek užtruko. Kaip jau rašiau anksčiau, pirmieji čia pajudėjo archeologai, o literatūros studijoje ryškesnio progreso nėra ir ligi šiol. 
+
+Iki dabar nėra padaryta rimtesnė unifikuota lietuvių literatūros duomenų bazė, kuri leistų lengvai prieiti ir surasti literatūros kūrinius. Nesant šios bazinės infrastruktūros bet kokie tolimesni ir gilesni tyrimai yra negalimi. Sakydamas, kad nieko nėra padaryta nenoriu teigti, kad niekas net nebuvo bandyta – veikiau priešingai – bandymų yra daug, deja, nė vienas jų nėra vykęs. Anksčiau sukurtos duomenų bazės yra uždaros, neprieinamos ir neprižiūrėtos. Po resurso sukūrimo nebuvo pasirūpinta bendruomenės ir dalininkų (angl. Stakeholders) telkimu ir užtikrinimu, kad resursas būtų pildomas ir prižiūrimas. Dėl to, sunkiai surinktos duomenų bazės greitai praranda aktualumą ir tampa nebe naudingos. 
+
 
 ## Kas skaitmeninė humanistika ir kam jos reikia?
 
